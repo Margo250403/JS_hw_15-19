@@ -1,0 +1,8 @@
+[
+    {"id": 1, "name": "Home", "url": "/"},
+    {"id": 2, "name": "About us", "url": "/about"},
+    {"id": 3, "name": "Blog", "url": "/blog"},
+    {"id": 4, "name": "Gallery", "url": "/gallery"},
+    {"id": 5, "name": "Contact", "url": "/contact"}
+    
+]
